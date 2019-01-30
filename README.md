@@ -2,7 +2,6 @@
 Computer Graphics, 2016 Spring
 
 
-## Rotation Matrix
-![rotmat](./image/RotMat.png)
-![rotmat2](./image/RotMatEq.png)
+## Information
+* [Rotation Matrix](https://github.com/rhs0266/Computer-Graphics/blob/master/RotationMatrix)
 
